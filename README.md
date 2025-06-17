@@ -18,10 +18,10 @@ from sklearn.tree import DecisionTreeClassifier, _tree
 import numpy as np
 import pandas as pd
 
-**License**
+#**License**
 This project was licened under MIT.
 
-**Author**
+#**Author**
 Developed by Gorile Shailaja.
 
 
